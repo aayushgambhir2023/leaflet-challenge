@@ -14,4 +14,5 @@ For the first part of the challenge, I focused on creating the Earthquake Visual
 
 4. **Creation of Legend**: To provide context for the map data, I created a legend that visually represents the relationship between earthquake depth and color. The legend helps users interpret the significance of different colors on the map.
 
-<img width="1438" alt="Screen Shot 2024-02-26 at 2 31 34 PM" src="https://github.com/aayushgambhir2023/leaflet-challenge/assets/132638124/39e3e77e-f007-422e-81f0-a2a2d3b6d5a6">
+<img width="1116" alt="Screen Shot 2024-02-26 at 2 53 49 PM" src="https://github.com/aayushgambhir2023/leaflet-challenge/assets/132638124/2b0257d5-80b0-46c6-a9ae-da8fa8163c22">
+
